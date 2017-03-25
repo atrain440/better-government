@@ -56,7 +56,7 @@ General comments
 - Cost effective statement: how can we have the same cost but do it faster and have better outcomes
 - It&#39;s hard to measure innovation: how do we measure our outcomes? In 5 years did we improve ability to solve problems?
 
-Activity 1: Barriers to Innovation
+### Activity 1: Barriers to Innovation
 
 - Resistance to innovation on the Hill (Question: What is our evidence of Hill resistance to innovation - is it Hill resistance to government innovation specifically or innovation generally?)
 - Different agencies different authorities (DoE)
@@ -71,20 +71,20 @@ Activity 1: Barriers to Innovation
 - Agile personnel (Question: what is meant by agile personnel?)
 - Lack of leadership support
 - The need to infuse new technology with security and privacy
-- Staff are measured with performance metrics that require meeting numbers and if they take time to learn HCD then they won&#39;t make their numbers. and that affects their performance, and therefore money in bonuses.
+- Staff are measured with performance metrics that require meeting numbers and if they take time to learn HCD then they won't make their numbers. and that affects their performance, and therefore money in bonuses.
 - For folks who have the ability to experiment, once you do and want to scale to a larger audience, one of the larger barriers is the lack of resources to carry that across; that could be human resources or something else; a lot of us seem to not have capacity to take on more work or a methodology to scale, because lack of resources &amp; with that comes often lack of necessary of air cover in leadership at the higher levels to push forth; some folks aren&#39;t willing to help you push it further out because it may require investment or heavy lifting and bias against innovation
 - My staff and my agency are measured by the numbers they meet and make sure they get things done &amp; if they spend time learning, it will affect my numbers which ultimately affect bonuses. Solution: need to get metrics in innovation in supervisors and create performance standards around that
 - Teammates reluctant to experiment with new tools
 - Union rules say that some tools are not required (specifically talking about online  and PC-based tools and platforms, but also sure this applies to innovative concepts like Human-Centered Design (HCD) and others.)
 - Partner agencies may not have access to our technology stack (or vice versa) so it makes it hard to collaborate and share files
-- Staff says they don&#39;t have enough time
-- Competitive &amp; conflicting guidance; bureaucrats dodging bullets from compatriots
+- Staff says they don't have enough time
+- Competitive & conflicting guidance; bureaucrats dodging bullets from compatriots
 - Infrastructure is a major barrier.  We bring in designers who need Macs and Mac-based applications.  There is institutional skepticism of the need for these supplies, so we jump through major hoops to get them procured.
-- People like HCD and also they find it useful.  I think that is the key selling point.  Unlike other methods, it&#39;s not a grind - people think it&#39;s fun!  Then they also gain the benefits of whatever topic they&#39;re exploring in HCD.  Yet, a major barrier is time. Doing a full-fledged HCD or innovation project can take time.  Leaders need to be persuaded that the benefits (and enhanced employee morale) of HCD/innovation outweigh any significant time commitment.
+- People like HCD and also they find it useful.  I think that is the key selling point.  Unlike other methods, it's not a grind - people think it's fun!  Then they also gain the benefits of whatever topic they&#39;re exploring in HCD.  Yet, a major barrier is time. Doing a full-fledged HCD or innovation project can take time.  Leaders need to be persuaded that the benefits (and enhanced employee morale) of HCD/innovation outweigh any significant time commitment.
 
-Activity 2: Defining &quot;Better Government&quot;
+## Activity 2: Defining &quot;Better Government&quot;
 
-Group 1: Continuous improvement and flexibility
+### Group 1: Continuous improvement and flexibility
 
 - Open mindset
 - Adaptable (x3)
@@ -97,11 +97,11 @@ Group 1: Continuous improvement and flexibility
 - Feedback: constantly evaluating ways to improve
 - Agile
 
-Group 2: Communication
+### Group 2: Communication
 
 - Communicative (x2)
 
-Group 3: Effectiveness and efficiency
+### Group 3: Effectiveness and efficiency
 
 - Effective (x6)
 - Efficient (x5)
@@ -109,7 +109,7 @@ Group 3: Effectiveness and efficiency
 - Eliminating what doesn&#39;t work
 - Integrated government - partnership between Congress &amp; executive branch
 
-Group 4: Providing citizen value
+### Group 4: Providing citizen value
 
 - Creating public value
 - Inclusive engagement
@@ -124,7 +124,7 @@ Group 4: Providing citizen value
 - Public support
 - Popular
 
-Group 5: Diversity and inclusion
+### Group 5: Diversity and inclusion
 
 - Diverse (x2)
 - Quality of education
@@ -139,22 +139,22 @@ Group 5: Diversity and inclusion
 - Clear
 - Equitability/equity
 
-Group 6: Prototypes and experimentation
+### Group 6: Prototypes and experimentation
 
 - Willingness to fail forward
 - Experimentation
 
-Group 7: Future planning
+### Group 7: Future planning
 
 - Plans for the future
 - Meetings and future needs
 - Anticipate trends
 
-Group 8: Fairness
+### Group 8: Fairness
 
 - Fair (x3)
 
-Group 9: Learning
+### Group 9: Learning
 
 - Develops top-notch workplace
 - Because an employer of choice for top talent
@@ -162,7 +162,7 @@ Group 9: Learning
 - Attracts good employees
 - Learning
 
-Group 10: Outcomes and ROI
+### Group 10: Outcomes and ROI
 
 - Outcome driven
 - Purposeful
@@ -171,7 +171,7 @@ Group 10: Outcomes and ROI
 - Outcome-based policy
 - Produces results
 
-Group 11: Internal workings of government
+### Group 11: Internal workings of government
 
 - Accountable
 - Comprehensive (x2)
@@ -194,16 +194,16 @@ Group 11: Internal workings of government
 - Balanced budget
 - Problem solving
 
-Group 12: Working with Partners
+### Group 12: Working with Partners
 
 - Collaborative work with private sector; stay current, working in gov becomes more attractive
 - Love staying current - relevant and valued by citizens
 
 ## Activity 3: Shaping a Better Government
 
-Who
+## Who
 
-Who is innovating?
+### Who is innovating?
 
 - Federal research and evaluation offices
 - States
@@ -238,7 +238,7 @@ Who is innovating?
 - Under funded non profits who get some federal money (not involved)
 - 1776
 
-Who is Involved?
+### Who is Involved?
 
 - State and local government organizations
 - Universities
@@ -250,13 +250,13 @@ Who is Involved?
 - Citizens
 - Entrepreneur &amp; business community
 - Media
-- Gov&#39;t needs to hire an excellent PR firm to showcase all the good work that IS being done.
+- Govt needs to hire an excellent PR firm to showcase all the good work that IS being done.
 
-Who isn&#39;t involved?
+### Who isn't involved?
 
 - Towns and villages
 - HR
-&quot;Underserved&quot; communities
+- Underserved communities
 - Rural areas
 - Government acquisition
 - DoD acquisition
@@ -269,7 +269,7 @@ Who isn&#39;t involved?
 - International problem solvers
 - Traditional command and control is NOT included
 
-Who else was involved in the past?
+### Who else was involved in the past?
 
 - Agency leaders
 - HQ staff
@@ -282,7 +282,7 @@ Who else was involved in the past?
 - Academics
 - HBR - at least in reporting case studies
 
-Who else wasn&#39;t involved in the past?
+### Who else wasn't involved in the past?
 
 - Partners
   - procurement related
@@ -295,12 +295,12 @@ Who else wasn&#39;t involved in the past?
 - Agency leaders
 - OSTP
 - OMB
-- People who say it&#39;s too hard
+- People who say it's too hard
 - Cross-cutting teams
 - Demotivated civil/foreign service
 - Govt staff/internal teams/field staff
 
-Who do we need to include in the future?
+### Who do we need to include in the future?
 
 - Citizens - local institutions
 - legal/procurement/unions/security
@@ -320,11 +320,11 @@ Who do we need to include in the future?
 - Agencies and offices w/poor track record of innovation
 - Old guard leaders
 - Forward thinking attorneys and contracts professionals
-- Who&#39;s coming in to run all these agencies? Ppl from the business sector &amp; prob had design thinking going on in their orgs; high production value packaging to remind them that it works
+- Who's coming in to run all these agencies? Ppl from the business sector &amp; prob had design thinking going on in their orgs; high production value packaging to remind them that it works
 
 ## What
 
-What does this include?
+### What does this include?
 
 - Experimentation
 - Using new methods to address old problems
@@ -348,7 +348,7 @@ What does this include?
 - Results oriented
 - Accountability
 
-What doesn&#39;t it include?
+### What doesn't it include?
 
 - Specific technology or solution (It&#39;s the HOW not the what?!)
 - Resistance change
@@ -365,7 +365,7 @@ What doesn&#39;t it include?
 - Ideas that do not lead to positive impacts
 - Fear
 
-What else is connected to this?
+### What else is connected to this?
 
 - Research and commercialization funding
 - Hill buy in
@@ -381,7 +381,7 @@ What else is connected to this?
 - Information flow
 - Sharing
 
-What isn&#39;t connected to this?
+### What isn't connected to this?
 
 - Communities of practice
 - Sufficient #&#39;s of success stories
@@ -391,7 +391,7 @@ What isn&#39;t connected to this?
 - Open source
 - A one-size fits all approach
 
-What was done about this in the past?
+### What was done about this in the past?
 
 - Online information portals
 - Outreach efforts on an agency/lab level office
@@ -399,7 +399,7 @@ What was done about this in the past?
 - Committees
 - Meetings about meetings
 
-What wasn&#39;t done about this in the past?
+### What wasn't done about this in the past?
 
 - Holistic
 - Systems holistic thinking
@@ -411,7 +411,7 @@ What wasn&#39;t done about this in the past?
 - Quantitative analysis
 - Open source
 
-What form should the final solution take?
+### What form should the final solution take?
 
 - Pilot or demo w/proof of concept
 - A guide or playbook (with onboarding)
@@ -424,7 +424,7 @@ What form should the final solution take?
 - Funding for executive branch work that is not so strictly tied to pre-ordained performance metrics
 - McKinsey and Deloitte have purchased design firms recently
 
-What types of convening should we do?
+### What types of convening should we do?
 
 - Virtual meetings (ways to include people outside DC) (x2)
 - Action oriented bullets: worst thing we could possibly do would be to have meetings. Get together and make it happen
@@ -445,15 +445,15 @@ What types of convening should we do?
 - Driven by experimentation
 - Interactive
 - Across silos
-- SME&#39;s and not just management
+- SMEs and not just management
 
-When
+## When
 
-When do we need to act?
+### When do we need to act?
 
 - When funds are available
 - We are acting...keep going and accelerate
-- Bringing in more efforts &amp; champions
+- Bringing in more efforts and champions
 - When we identify/pinpoint a problem
 - Whenever we see a way to improve
 - When a window of opportunity opens (requires a thought through plan prepared)
@@ -467,18 +467,18 @@ When do we need to act?
   - Dep see meetings
 - Once we have a plan
 
-When is the latest we can act?
+### When is the latest we can act?
 
 - Before entire budgets disappear
-- When a solution is forming (e.g. big procurement) But we haven&#39;t fully articulated the problem/desired outcomes.
+- When a solution is forming (e.g. big procurement) But we haven't fully articulated the problem/desired outcomes.
 - When bad things happen and we have public attention
-- It&#39;s never too late
+- It's never too late
 - It depends on when you want to get results
 - September 29th, 20XX
 - Yesterday
 - We are always behind, If not losing ground
 
-When previously have we dealt with this?
+### When previously have we dealt with this?
 
 - Each change of administration
 - Healthcare.gov
@@ -491,14 +491,14 @@ When previously have we dealt with this?
 - July 4, 1776
 - Post Cold War (2nd offset)
 
-When hasn&#39;t this been an issue
+### When hasn't this been an issue
 
 - Smart cities 2.0
 - Wrong question
 - Nope
 - July 3, 1776
 
-When have others dealt with this?
+### When have others dealt with this?
 
 - Japan post WWII
 - In market competition
@@ -508,15 +508,15 @@ When have others dealt with this?
 - Every day
 - Never
 
-When haven&#39;t others dealt with this?
+### When haven't others dealt with this?
 
 - Russia post cold war
-- As far back as the 60&#39;s
-- Kodak in the 90&#39;s
+- As far back as the 60s
+- Kodak in the 90s
 
-Where
+## Where
 
-Where is innovation happening?
+### Where is innovation happening?
 
 - Discretionary spending
 - State + local government
@@ -530,7 +530,7 @@ Where is innovation happening?
 - Where you least expect it
 - iCorps/ Lean launchpad initiatives
 - Challenge.gov
-- NSA&#39;S Tailored access operations (TAOx)
+- NSA'S Tailored access operations (TAOx)
 - Grants-funded organizations
 - SBIR/STTR
 - Private sector
@@ -547,7 +547,7 @@ Where is innovation happening?
 - Innovation Labs (Acquisition Innovation Labs)
 - Government-funded labs (FFRDC
 
-Where isn&#39;t innovation happening?
+### Where isn't innovation happening?
 
 - Legal (x3)
 - HR
@@ -569,13 +569,12 @@ Where isn&#39;t innovation happening?
 - Draconian + broken budget cycles
 - Inter-governmental initiatives
 - From citizen to government
-- From citizen to government
 
-Why
+## Why
 
-Why is this important?
+### Why is this important?
 
-- Improve citizens&#39; lives
+- Improve citizens lives
 - Achieving agency outcomes (protect people, places, planet) (x2)
 - The future
 - Results for American people
@@ -595,14 +594,14 @@ Why is this important?
 - Innovation has many speeds
 - Take advantage of new technology
 
-Why might this not be important?
+### Why might this not be important?
 
 - When individual leaders are pushing their own priorities or agendas
 - Duplication of market/citizen efforts
 - Overshooting government role in society
 - When something is working really well, innovation may not be necessary. Important to know when to use it.
-- If it&#39;s not implemented.
-- Don&#39;t just follow the newest shiny thing
+- If it's not implemented.
+- Don't just follow the newest shiny thing
 - Other priorities take precedence?
 - Quality in the status quo
 - Effort outweighs results (maybe)
@@ -611,7 +610,7 @@ Why might this not be important?
 - Politics
 - It becomes competitive/exclusive
 
-Why should we care?
+### Why should we care?
 
 - Justify funding
 - Results
@@ -633,18 +632,18 @@ Why should we care?
 - Government impacts everyone
 - Government NEEDS to be more effective--serves as a lifeline for many
 
-Why shouldn&#39;t we care?
+### Why shouldn't we care?
 
 - Takes forever to change everything
 - Government hates change
 - Can have unintended consequences
 - Budget/effort needs to meet current needs rather than future initiatives that may fail or become irrelevant
-- If new ideas don&#39;t have a problem to solve
+- If new ideas don't have a problem to solve
 - Need public support
 - Private sector can do it!
 - Need public support
 
-Why now?
+### Why now?
 
 - Make reduced budgets go further
 - Opportunities to save $$ in an era of declining budgets
@@ -654,20 +653,20 @@ Why now?
 - Credibility of government and role of government is low
 - So we don&#39;t miss critical opportunities
 - Because people think we suck
-- It&#39;s our job!
+- It's our job!
 - If not us, then who?
 - Uncertain resources in future
 - Regain leadership role in world science and technology
 - Infusion of young, motivated people
 - Because it should have happened years ago
 - Why not?
-- Because we&#39;re already behind
+- Because we're already behind
 - Good enough for government work needs to mean something (again)
 - Do more with less
 - Public pressure
 - Already behind where we need to be
 
-Debrief after 5Ws exercise
+## Debrief after 5Ws exercise
 
 - How can we get more agencies doing innovation
 - Some people think innovation is either happening or not...sometimes innovation is slow going and quick.
@@ -684,9 +683,9 @@ Debrief after 5Ws exercise
 
 ## Activity 4: Better Government Culture
 
-Setting the Stage
+### Setting the Stage
 
-Approaches to righting the internal plumbing or hacking red tape to lay a firm foundation for a better government.
+#### Approaches to righting the internal plumbing or hacking red tape to lay a firm foundation for a better government.
 
 - Mindsets
   - Evidence-based and behavioral insights (DOL ran randomly-controlled experiments)
@@ -723,14 +722,14 @@ Approaches to righting the internal plumbing or hacking red tape to lay a firm f
 - Modes: Individual, Team, Agency/Department
 - Know the constraints
 
-Things to Try
+### Things to Try
 
-Programs or products that you can use at your agency to further a better government
+#### Programs or products that you can use at your agency to further a better government
 
-- Communicate end results (Translation to an &quot;innovation language&quot;)
+- Communicate end results (Translation to an "innovation language")
 - Mindset shift (Tell us what you need and want)
 - Small increasing
-- How can you do what you&#39;re doing with half the cost?
+- How can you do what you're doing with half the cost?
 - Sustained engagements (long term)
 - Collaborative design (design workshops) (done at USAID, Co-creation, power dynamics)
 - Hackathons
@@ -740,12 +739,12 @@ Programs or products that you can use at your agency to further a better governm
 - Unexpected or unlikely allies
 - Show stories and data results
 
-Stories (Suggestion: call it results?)
+### Stories (Suggestion: call it results?)
 
-Stories and case studies about people innovating within government, and incorporating outside partners
+#### Stories and case studies about people innovating within government, and incorporating outside partners
 
 - People would allow users to connect with SMEs and experts working in innovation in order to get guidance/mentorship
 - Anecdotes of people who have used innovation
-- Focus on unleashing the latent talent already in our federal workforce would be more viable in the short term &amp; one way to do that is to tell the story of ppl who have done amazing things
-- Not often do you hear back on the outcome of those projects; would need to reach audience so ppl can see results &amp; benefits of doing it, which would help a lot of people
+- Focus on unleashing the latent talent already in our federal workforce would be more viable in the short term and one way to do that is to tell the story of ppl who have done amazing things
+- Not often do you hear back on the outcome of those projects; would need to reach audience so ppl can see results and benefits of doing it, which would help a lot of people
 - Is there a better way to help people tell their stories? What's a template?
