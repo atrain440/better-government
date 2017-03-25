@@ -1,6 +1,6 @@
 # Better Government Program Workshop Notes
 
-Instructions
+## Instructions
 
 Below are the notes from the Better Government Workshops held the week of March 20, 2017. Please provide your edits to this file the Better Government GitHub Repository by Friday, March 31.
 
@@ -8,16 +8,7 @@ Below are the notes from the Better Government Workshops held the week of March 
 
 The leadership team will review all the comments and start forming out the Better Government principles/values in early April 2017. We will circulate draft principle and values document around the community as soon as it&#39;s available (estimated mid-April). If you have questions about this content or want to join a team, please email Amy Wilson, Better Government Program Manager at [Amy.Wilson@gsa.gov](mailto:Amy.Wilson@gsa.gov) or at (202) 394-9874.
 
-# Better Government Workshops Notes
-
-**Date and Times:** Tuesday, March 21, 1-3 p.m. and Wednesday, March 22, 1-2:30 p.m.
-
-**Location** : General Service Administration (GSA) Headquarters (1800 F Street, NW)
-
-**Facilitated by:** Amy Wilson, Presidential Innovation Fellow, detailed over to the Technology Transformation Service Office of Products and Programs Innovation Portfolio
-
 ## Background
-
 On Tuesday, March 21 and Wednesday March 23 the GSA Innovation Portfolio (under the Technology Transformation Service) team held two workshops to convene government innovators together to 1) outline the problem we&#39;re trying to solve and the users of the Better Government Program; 2) define what comprises a better government; 3) understand where we&#39;ve been and shape the program to our needs; 4) discuss where we are now and where we&#39;re going, including a chance for anyone to get more involved.
 
 More than 110 people attended these two workshops, with the following agencies/organizations represented:
@@ -40,6 +31,12 @@ More than 110 people attended these two workshops, with the following agencies/o
 - Department of Energy (x5)
 - Department of Labor
 - Social Security Administration
+
+**Date and Times:** Tuesday, March 21, 1-3 p.m. and Wednesday, March 22, 1-2:30 p.m.
+
+**Location** : General Service Administration (GSA) Headquarters (1800 F Street, NW)
+
+**Facilitated by:** Amy Wilson, Presidential Innovation Fellow, detailed over to the Technology Transformation Service Office of Products and Programs Innovation Portfolio
 
 ## Workshop Notes
 
