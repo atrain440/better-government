@@ -1,4 +1,4 @@
-# Better Government Program 
+# Better Government Program Workshop Notes
 
 Instructions
 
@@ -6,11 +6,7 @@ Below are the notes from the Better Government Workshops held the week of March 
 
 [How to edit the file in this repository](https://help.github.com/articles/editing-files-in-another-user-s-repository/).
 
-The leadership team will review all the comments and start forming out the Better Government principles/values in early April 2017. We will circulate draft principle and values document around the community as soon as it&#39;s available (estimated mid-April).
-
-If you have questions about this content or want to join a team, please email Amy Wilson, Better Government Program Manager at [Amy.Wilson@gsa.gov](mailto:Amy.Wilson@gsa.gov) or at (202) 394-9874.
-
-Want to participate in the conversation around building a better government? Join our #better-govt-public Slack Channel. Not a member? Visit [https://chat.18f.gov/](https://chat.18f.gov/) and select the Better Government Program channel to be added to this public channel.
+The leadership team will review all the comments and start forming out the Better Government principles/values in early April 2017. We will circulate draft principle and values document around the community as soon as it&#39;s available (estimated mid-April). If you have questions about this content or want to join a team, please email Amy Wilson, Better Government Program Manager at [Amy.Wilson@gsa.gov](mailto:Amy.Wilson@gsa.gov) or at (202) 394-9874.
 
 # Better Government Workshops Notes
 
