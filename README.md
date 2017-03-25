@@ -10,7 +10,7 @@ This Program will foster the awareness, adaptation, and adoption of a core set o
 - Improve core processes
 - Improve ability to solve problems
 
-Instructions
+## Instructions
 
 Below are the notes from the Better Government Workshops held the week of March 20, 2017. Please provide your edits to this file the Better Government GitHub Repository by Friday, March 31.
 
